@@ -1,6 +1,9 @@
 UPDATE 19.10.25 
+
 REALESE 
+
 PASSWORD: FDLauncher
+
 📥 Download & auto complete. Support download Minecraft, Forge, Fabric, Quilt, OptiFine, JVM from official or third party mirrors.
 ⚡️ Download Fast. Reuse socket via HTTP/HTTPS agents, and download the files in parts concurrently.
 💻 Cross platform. The launcher is based on Electron, and supports 🗔 Windows 10/11, 🍎 MacOS, and 🐧 Linux.
